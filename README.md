@@ -7,7 +7,7 @@
 ### clone the repo and run the next commands 
 ```
 npm install
-npm run
+npm start
 ```
 
 specs
